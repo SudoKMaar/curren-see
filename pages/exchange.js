@@ -21,7 +21,6 @@ import {
 import { UpDownIcon } from "@chakra-ui/icons"
 import { convert, getDate } from "services/utils"
 
-import Footer from "components/Footer"
 import MyNumberInput from "components/NumberInput"
 import SelectInput from "components/ReactSelect"
 import Nav from "components/Nav"
@@ -251,7 +250,6 @@ export default function Home({ currencies, defaultCurrencyCode }) {
               </Stat>
             </Box>
 
-            <Footer />
           </Stack>
         </Flex>
       </Box>
