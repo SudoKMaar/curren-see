@@ -23,7 +23,7 @@ Curren See is a web application that allows users to perform currency conversion
 
 ## Live Demo
 
-[View Live Demo](https://curren-see.vercel.app)
+[Curren See](https://curren-see.vercel.app)
 
 ## Installation
 
